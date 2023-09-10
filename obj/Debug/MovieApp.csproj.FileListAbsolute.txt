@@ -1,0 +1,10 @@
+D:\AuroTraining\Session 17\MovieApp\bin\Debug\MovieApp.exe.config
+D:\AuroTraining\Session 17\MovieApp\bin\Debug\MovieApp.exe
+D:\AuroTraining\Session 17\MovieApp\bin\Debug\MovieApp.pdb
+D:\AuroTraining\Session 17\MovieApp\bin\Debug\MoviesClassLibrary.dll
+D:\AuroTraining\Session 17\MovieApp\bin\Debug\MoviesClassLibrary.pdb
+D:\AuroTraining\Session 17\MovieApp\obj\Debug\MovieApp.csproj.AssemblyReference.cache
+D:\AuroTraining\Session 17\MovieApp\obj\Debug\MovieApp.csproj.CoreCompileInputs.cache
+D:\AuroTraining\Session 17\MovieApp\obj\Debug\MovieApp.csproj.CopyComplete
+D:\AuroTraining\Session 17\MovieApp\obj\Debug\MovieApp.exe
+D:\AuroTraining\Session 17\MovieApp\obj\Debug\MovieApp.pdb
